@@ -16,6 +16,14 @@ microT-CNN was funded by “ELIXIR-GR: ... "
 microT-CNN is available as a Docker image in the public repository of Docker Hub under the name of penny0lane/microt_cnn. Inside the image all the scripts are available under the /R/ directory. /Inputs/ directory contains phastcons .Finally, under /microt_temp there are 4 test sample sets allowing for a test run upon loading the image on a container. This is the recommended way of running this tool, as there is no need for any complex dependency installations.
 
 
-- 1
+- Follow the installation instructions on the docker website to install docker on your machine.
 
+  If you are a user in an HPC or cluster and do not have root access, ask the IT administrator to install Docker for you and to follow this guide in order to allow your user to run Docker commands without the need for root access or sudo.
+
+- Start a container using the microT-CNN image from Docker Hub and run the container with the Volume.
+
+
+- Main function of algorithm
+
+  @:R/: Rscript main.R /microt_temp/config.yml
 
