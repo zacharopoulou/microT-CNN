@@ -11,7 +11,7 @@ microT-CNN was funded by “ELIXIR-GR: ... "
 
 # Installation
 
-Docker
+## Docker
 
 
 
