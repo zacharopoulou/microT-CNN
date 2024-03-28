@@ -18,7 +18,7 @@ microT-CNN is available as a Docker image in the public repository of Docker Hub
 
 - Follow the installation instructions on the docker website to install docker on your machine.
 
-  If you are a user in an HPC or cluster and do not have root access, ask the IT administrator to install Docker for you and to follow this guide in order to allow your user to run Docker commands without the need for root access or sudo.
+  If you are a user in an HPC or cluster and do not have root access, ask the IT administrator to install Docker for you and to follow this guide (https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) in order to allow your user to run Docker commands without the need for root access or sudo.
 
 - Start a container using the microT-CNN image from Docker Hub and run the container with the Volume.
 
