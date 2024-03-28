@@ -1,5 +1,5 @@
 # microT-CNN
-microT-CNN is the latest version of the DIANA-microT-CDS model. Is a deep convolutional neural network approach that characterizes previously neglected functional (non-)canonical binding sites. It achieved greater sensitivity, detecting 1.5-fold more validated genuine miRNA-targets, marking a significant breakthrough in miRNA-target annotation.
+microT-CNN is the latest version of the DIANA-microT-CDS model. Is a next-generation, Deep Convolutional Neural Network (DCNN) framework that fills the existing gap of the multifaceted miRNA-targeting problem by providing functional (non-)canonical previously neglected miRNA binding events, leveraging the high-yield AGO-CLIP tissue-specific miRNA-binding accuracy, and the miRNA-target functionality from gene expression experiments
 
 The tool is free to use under MIT licence, please cite:
 
