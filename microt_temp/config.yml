@@ -1,0 +1,14 @@
+src_dir : "/R/"
+exon_file : "/microt_temp/ensembl100.CDS.UTRS.apris.principal.tarnscripts.tab"
+transcript_file_fasta : "/microt_temp/1_transcript.fa"
+miRNA.fa : "/microt_temp/1_mirna.fa"
+mrescan_dir : "/R/bin/MREscan"
+bbmap_dir : "/R/bin/MREscan/bbmap"
+path_RNAduplex : "/R/bin/ViennaRNA/20.04"
+wigFixDir : "/hg38/"
+path_contrafold : "/R/bin/contrafold/"
+path_model : "/R/bin/model/"
+resultdir : "/microt_temp/Results"
+outputPrefix : "microTCNN_output"
+threads : 2
+
