@@ -52,4 +52,10 @@ outputPrefix : "microTCNN_output"  # This parameter specifies the prefix for the
 threads : 2  # This parameter specifies the number of threads the algorithm should utilize for parallel processing. In this case, it's set to 2, meaning the algorithm will use two threads.
 ```
 
+#### A guide to fix input files
+
+- For coordinates of exons and sequences of transcripts on a fasta format, you can use the fix_exons.R script.
+
+
+
 
