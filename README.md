@@ -24,7 +24,7 @@ You can use `microt_temp` as a volume for connection between the Docker image an
 ```bash
 docker run -v /path/to/local/microt_temp:/microt_temp penny0lane/microt_cnn
 
-### Main Function of the Algorithm
+#### Main Function of the Algorithm
 
 To run the main function of the algorithm, execute the following command inside the Docker container:
 
