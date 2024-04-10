@@ -60,4 +60,6 @@ Parameters exon_file, transcript_file_fasta, miRNA.fa, and threads can be adjust
 
 #### MicroT-CNN Performance Analysis with Varied Inputs
 
-The `estimations` file provides a comprehensive analysis of the MicroT-CNN tool, exploring its performance under diverse input conditions. It includes a detailed examination of CPU and RAM consumption, as well as execution time, across a range of experimental setups.
+The `estimations` file provides a comprehensive analysis of the MicroT-CNN algorithm, exploring its performance under diverse input conditions. It includes a detailed examination of CPU and RAM consumption, as well as execution time, across a range of experimental setups.
+
+
