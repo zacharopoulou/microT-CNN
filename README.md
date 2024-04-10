@@ -54,7 +54,7 @@ threads : 2  # This parameter specifies the number of threads the algorithm shou
 
 Parameters exon_file, transcript_file_fasta, miRNA.fa, and threads can be adjusted to suit your specific needs.
 
-#### A guide to fix input files
+#### A guide for Generating Transcript Exon Coordinates and Sequences
 
 - For coordinates of exons and sequences of transcripts in a FASTA format, you can employ the fix_exons_fasta_files.R script. This script requires a file containing transcript names (refer to transcript_id_list.txt for the format). It will generate two files that can be used as inputs for microT-CNN: a tab-separated file containing the coordinates of exons for each transcript, and a FASTA file containing their sequences.
 
