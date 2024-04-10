@@ -58,5 +58,6 @@ Parameters exon_file, transcript_file_fasta, miRNA.fa, and threads can be adjust
 
 - For coordinates of exons and sequences of transcripts in a FASTA format, you can employ the fix_exons_fasta_files.R script. This script requires a file containing transcript names (refer to transcript_id_list.txt for the format). It will generate two files that can be used as inputs for microT-CNN: a tab-separated file containing the coordinates of exons for each transcript, and a FASTA file containing their sequences.
 
+#### MicroT-CNN Performance Analysis with Varied Inputs
 
-
+The `estimations` file provides a comprehensive analysis of the MicroT-CNN tool, exploring its performance under diverse input conditions. It includes a detailed examination of CPU and RAM consumption, as well as execution time, across a range of experimental setups.
