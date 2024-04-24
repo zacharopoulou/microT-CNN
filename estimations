@@ -4,7 +4,7 @@ Maximum CPU Percentage: 1785.62%
 Mean CPU Percentage: 306.01%
 Mean Used RAM: 2.867 GiB
 Maximum Used RAM: 3.971 GiB (out of 376.6 GiB)
-Took 51.836 seconds to run.
+Took 52 seconds to run.
 
 
 For 100 mirnas and 1 transcript (length of 2.519 bases) and 10 threads
@@ -13,7 +13,7 @@ Maximum CPU Percentage: 1828.49%
 Mean CPU Percentage: 464.73%
 Mean Used RAM: 3.410 GiB
 Maximum Used RAM: 9.788 GiB (out of 376.6 GiB)
-Took 75.627 seconds to run
+Took 76 seconds to run
 
 
 For 1 mirna and 100 transcripts and 10 threads
@@ -22,7 +22,7 @@ Maximum CPU Percentage: 1646.92%
 Mean CPU Percentage: 498.62%
 Mean Used RAM: 3.506 GiB
 Maximum Used RAM: 9.976 GiB (out of 376.6 GiB)
-Took 75.944 seconds to run
+Took 76 seconds to run
 
 
 For 100 mirnas and 100 transcripts and 10 threads
@@ -31,7 +31,7 @@ Maximum CPU Percentage: 3892.14%
 Mean CPU Percentage: 867.82%
 Mean Used RAM: 7.899 GiB
 Maximum Used RAM: 14.81 GiB (out of 376.6 GiB)
-Took 1202.177 seconds to run
+Took ~20 minutes to run
 
 
 For 100 mirnas and 2500 transcripts and 20 threads
@@ -40,4 +40,4 @@ Maximum CPU Percentage: 6429.38%
 Mean CPU Percentage: 1452.88%
 Mean Used RAM: 13.346 GiB
 Maximum Used RAM: 126.8 GiB (out of 376.6 GiB)
-Took 20656.087 seconds to run 
+Took 5,7 hours to run 
