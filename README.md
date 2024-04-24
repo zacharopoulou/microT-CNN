@@ -4,9 +4,13 @@ microT-CNN is the latest version of the DIANA-microT-CDS model. It is a next-gen
 The tool is freely available under the MIT license. If you use microT-CNN in your research, please cite:
 ""
 
-microT-CNN was funded by “ELIXIR-GR: ... " !!!!
+microT-CNN was funded by "HERE"
+
+Is free to use under MIT licence, please cite: "HERE"
 
 ![Figure2](https://github.com/zacharopoulou/microT-CNN/assets/44471936/a863ba3f-2d1c-49c4-8534-da6edbd8913f)
+
+
 
 ## Installation
 
