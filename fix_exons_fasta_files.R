@@ -126,7 +126,6 @@ getTranscriptInfo <- function(version=version, input=input_dir, file=transcrit_f
   ensembl.CDS <- clean_bed_convert(as.data.table(CDS), "CDS", cols, types)
   
   protein.coding <- as.data.table(rbind(ensembl.CDS, ensembl.UTR3, ensembl.UTR5))
-  # chrX	100636608	100636694	ENSG00000000003@TSPAN6@ENST00000373020	1	-	CDS
   protein.coding <- protein.coding[,c('chromosome', 'start', 'end', 'strand', 'transcript.id', 'type')]
   #protein.coding$strand <- ifelse(protein.coding$strand == "+", 1, -1)
   protein.coding$chromosome <- paste0("chr",protein.coding$chromosome)
