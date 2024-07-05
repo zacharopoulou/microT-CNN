@@ -11,4 +11,6 @@ path_model : "/R/bin/model/"
 resultdir : "/microt_temp/Results"
 outputPrefix : "microTCNN_output"
 threads : 2
+mre_score : 0.5
+gene_score : 0.7
 
