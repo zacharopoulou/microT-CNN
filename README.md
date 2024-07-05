@@ -57,7 +57,7 @@ mre_score: 0.5 # This parameter specifies the threshold for an interaction on MR
 gene_score: 0.7 # This parameter specifies the threshold for an interaction on gene level.
 ```
 
-Parameters exon_file, transcript_file_fasta, miRNA.fa, mre_score, gene_score and threads can be adjusted to suit your specific needs.
+Parameters exon_file, transcript_file_fasta, miRNA.fa, mre_score, gene_score and threads can be adjusted to suit your specific needs. The scores can take values ​​from 0 to 1 in increments of 0.1.
 
 #### A guide for Generating Transcript Exon Coordinates and Sequences
 
