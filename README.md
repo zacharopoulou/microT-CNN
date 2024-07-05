@@ -41,7 +41,7 @@ To run the main function of the algorithm, execute the following command inside 
 These parameters collectively configure the microT-CNN algorithm and define the paths to the necessary input files and directories required for its execution. Users should adjust these paths and settings according to their specific setup and requirements.
 ``` yaml
 src_dir : "/R/" # This parameter specifies the directory containing the source code files needed for the algorithm to run. In this case, it's set to /R/
-exon_file : "/microt_temp/ensembl100.CDS.UTRS.apris.principal.tarnscripts.tab"  # This parameter specifies the path to the file containing exon's coordinates information. It's expected that the user provides this file under the microt_temp folder, which connects with the Docker image.
+exon_file : "/microt_temp/ensembl100.CDS.UTRS.apris.principal.transcripts.tab"  # This parameter specifies the path to the file containing exon's coordinates information. It's expected that the user provides this file under the microt_temp folder, which connects with the Docker image.
 transcript_file_fasta : "/microt_temp/1_transcript.fa"  # This parameter specifies the path to the FASTA file containing transcript sequences. Similarly to the exon_file, the user should provide this file under the microt_temp folder.
 miRNA.fa : "/microt_temp/1_mirna.fa"  # This parameter specifies the path to the FASTA file containing miRNA sequences. As with the previous files, the user should provide this file under the microt_temp folder.
 mrescan_dir : "/R/bin/MREscan"  # This parameter specifies the directory containing the BBMap binary files.
