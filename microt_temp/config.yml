@@ -1,5 +1,5 @@
 src_dir : "/R/"
-exon_file : "/microt_temp/ensembl100.CDS.UTRS.apris.principal.tarnscripts.tab"
+exon_file : "/microt_temp/ensembl100.CDS.UTRS.apris.principal.transcripts.tab"
 transcript_file_fasta : "/microt_temp/1_transcript.fa"
 miRNA.fa : "/microt_temp/1_mirna.fa"
 mrescan_dir : "/R/bin/MREscan"
